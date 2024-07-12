@@ -179,6 +179,9 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::before {
 
 .search-form__label:hover {
   cursor: pointer;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 
 .search-form__label-text {

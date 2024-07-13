@@ -307,7 +307,7 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::before {
   color: #fff;
 }
 
-.content__card-link_current:focus {
+.content__card-link_current {
   background-color: #545050;
 }
 
